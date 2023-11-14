@@ -33,7 +33,7 @@ To run the Job Search Application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/job-search-app.git
+   git clone https://github.com/Vanithagk/Job-search-application/tree/main
    ```
 
 2. **Install dependencies:**
